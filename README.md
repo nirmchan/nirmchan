@@ -88,9 +88,9 @@ engineering:
   ci_cd:         GitHub Actions | GitLab CI | Tekton | Argo CD
 ```
 
-## Breadth × Depth
+## Breadth-First, Depth-First
 
-Breadth is the number of rows. Depth is what's inside them.
+Both traversals. Breadth is the number of rows — depth is what's inside them.
 
 | Layer | Where I've gone deep |
 |---|---|
