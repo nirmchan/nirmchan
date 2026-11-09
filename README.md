@@ -1,6 +1,6 @@
 <div align="center">
 
-### *A true full-stack architect who is an engineer first.*
+### *A true Full-Stack architect who is an Engineer first.*
 
 `Full-Stack` **+** `Data Science` **+** `Agentic`
 <!-- 
@@ -52,6 +52,9 @@ Seventeen years to get here, and I've been the IC, the lead and the manager alon
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-**Building agentic systems for production?** Happy to talk.
+**Nearly a decade in Data & AI.**
+Currently building large-scale, enterprise agentic systems for production.
+
+**Happy to talk.**
 
 </div>
