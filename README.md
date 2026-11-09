@@ -4,16 +4,18 @@
 
 ### *I've built every layer I design. I make sure it doesn't break — and when it does, I'm the one who gets it running again.*
 
-`Testing` → `Automation Developer` → `Front-End Engineer` → `Full Stack` → `Data Scientist` → `AI Architect` → `ML Engineer` → `ML Platform Engineering` → `Agentic Engineering` → `Agent Platform Development` → `Technology Leader` → `Principal Software Engineer`
-
 **IC · Technology Leader · Engineering Manager** — whichever seat the problem needs.
 Not mutually exclusive. Usually juggling all three.
 
-<img src="https://img.shields.io/badge/Agent_Platform-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Data_%26_AI-0D1117?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Principal_SW_Engineer-0D1117?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Data_%26_AI-00D9FF?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/@_Red_Hat-EE0000?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
+
+<!-- PARKED — career trajectory, to place further down the page later:
+`Testing` → `Automation Developer` → `Front-End Engineer` → `Full Stack` → `Data Scientist` → `AI Architect` → `ML Engineer` → `ML Platform Engineering` → `Agentic Engineering` → `Agent Platform Development` → `Technology Leader` → `Principal Software Engineer`
+-->
 
 ---
 
