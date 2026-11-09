@@ -86,7 +86,7 @@ engineering:
   ci_cd:         GitHub Actions | GitLab CI | Tekton | Argo CD
 ```
 
-## Open Source
+## @ Red Hat — Open Source
 
 | Repository | What it is | Role | Stars |
 |---|---|---|---|
