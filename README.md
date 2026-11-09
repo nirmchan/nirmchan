@@ -2,7 +2,7 @@
 
 ### *A true Full-Stack architect who is an Engineer first.*
 
-`Full-Stack` **+** `Data Science` **+** `Agentic`
+**A complete full stack** — `Full-Stack` **+** `AI/ML` **+** `Data Science` **+** `Agentic`
 <!-- 
 ### *I've built every layer I design , making sure it doesn't break — and if it does, I'm the one who gets it running again.* -->
 
@@ -97,28 +97,36 @@ engineering:
 ## Work
 
 ```mermaid
-flowchart TB
-    subgraph IBM["IBM &nbsp;·&nbsp; 2009 — 2020"]
+flowchart BT
+    subgraph L5["PRINCIPAL &nbsp;·&nbsp; TECHNOLOGY LEADERSHIP &nbsp;&nbsp;2025 — now"]
         direction LR
-        A1["Test<br/>Specialist"] --> A2["Test Automation<br/>Specialist"] --> A3["Automation Developer<br/>SDET"] --> A4["Full-Stack<br/>Developer"] --> A5["Application Architect<br/>+ Analytics"] --> A6["Technical<br/>Manager"]
+        N8["AI-First Technology Leader<br/>AI Architect Manager"] --> N9["Principal Software Engineer<br/>Data and AI"]
+    end
+    subgraph L4["AI ARCHITECT &nbsp;·&nbsp; ML PLATFORM &nbsp;&nbsp;2020 — 2025"]
+        direction LR
+        N5["Data Scientist<br/>Data Engineering"] --> N6["AIML Architect<br/>MLOps Engineer"] --> N7["AIML Solutions Architect<br/>MLOps Platform Engineering"]
+    end
+    subgraph L3["ARCHITECT &nbsp;·&nbsp; TECH MANAGEMENT &nbsp;&nbsp;2017 — 2020"]
+        direction LR
+        N3["Application Architect<br/>+ Analytics"] --> N4["Technical Manager<br/>Full-Stack Architect"]
+    end
+    subgraph L2["SENIOR &nbsp;&nbsp;2014 — 2017"]
+        direction LR
+        N2a["Automation Developer<br/>SDET"] --> N2b["Full-Stack Developer"]
+    end
+    subgraph L1["FOUNDATIONAL &nbsp;·&nbsp; MID &nbsp;&nbsp;2009 — 2014"]
+        direction LR
+        N1a["Test Specialist"] --> N1b["Test Automation Specialist"]
     end
 
-    subgraph ERI["Ericsson &nbsp;·&nbsp; 2020 — 2026"]
-        direction LR
-        B1["Data<br/>Scientist"] --> B2["AIML Architect<br/>MLOps Engineer"] --> B3["AIML Solutions Architect<br/>MLOps Platform Engineering"] --> B4["AI-First Technology Leader<br/>AI Architect Manager"]
-    end
+    L1 --> L2 --> L3 --> L4 --> L5
 
-    subgraph RH["Red Hat &nbsp;·&nbsp; 2026 — now"]
-        direction LR
-        C1["Principal Software Engineer &nbsp;·&nbsp; Data and AI"]
-    end
-
-    IBM --> ERI --> RH
-
-    classDef now stroke:#EE0000,stroke-width:3px
-    classDef ai stroke:#00D9FF,stroke-width:2px
-    class C1 now
-    class B1,B2,B3,B4 ai
+    classDef ibm stroke:#1F70C1,stroke-width:2px
+    classDef eri stroke:#00D9FF,stroke-width:2px
+    classDef rh  stroke:#EE0000,stroke-width:3px
+    class N1a,N1b,N2a,N2b,N3,N4 ibm
+    class N5,N6,N7,N8 eri
+    class N9 rh
 ```
 
 | | Years | Role |
