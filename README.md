@@ -49,6 +49,7 @@ agentic:
   evaluation:   LLM-as-judge | Promptfoo | Lightspeed benchmarks | KEDA-scaled eval runners
   models:       Claude | Gemini | open-source SLMs | fine-tuning | SLM-vs-LLM benchmarking
   governance:   OPA policy | guardrails | HITL approval | AI security
+  dev_tooling:  Claude Code | Kiro CLI | agent skill authoring | enterprise skill builder
 
 ai_ml:
   data_science: EDA | anomaly detection | correlation | machine reasoning | feature analysis
@@ -57,8 +58,9 @@ ai_ml:
   clouds:       AWS SageMaker | Bedrock AgentCore | GCP Vertex AI | Google Agent Engine
 
 data:
-  pipelines:    Kafka | RabbitMQ | PySpark | Logstash
-  stores:       PostgreSQL | MongoDB | Valkey | Redis | Elasticsearch / OpenSearch
+  elk:          Elasticsearch | Logstash | Beats | OpenSearch
+  pipelines:    Kafka | RabbitMQ | PySpark
+  stores:       PostgreSQL | MongoDB | Valkey | Redis
   warehouse:    Snowflake | S3 | Oracle | CouchDB | SQLite
 
 platform:
