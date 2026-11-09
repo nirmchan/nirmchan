@@ -1,6 +1,6 @@
 <div align="center">
 
-### *A true full-stack architect who is a developer first.*
+### *A true full-stack architect who is an engineer first.*
 
 `Full-Stack` **+** `Data Science` **+** `Agentic`
 <!-- 
