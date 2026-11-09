@@ -57,7 +57,7 @@ ai_ml:
   clouds:       AWS SageMaker | Bedrock AgentCore | GCP Vertex AI | Google Agent Engine
 
 data:
-  pipelines:    Kafka | RabbitMQ | PySpark | Logstash | DVC
+  pipelines:    Kafka | RabbitMQ | PySpark | Logstash
   stores:       PostgreSQL | MongoDB | Valkey | Redis | Elasticsearch / OpenSearch
   warehouse:    Snowflake | S3 | Oracle | CouchDB | SQLite
 
@@ -71,7 +71,7 @@ reliability:
   patterns:      circuit breakers | distributed semaphores | leader election
                  graceful drain | reconciliation loops | connection pooling
   observability: OpenTelemetry | Prometheus | Grafana | Langfuse
-                 Sumo Logic | Loki | Jaeger | structlog | Alertmanager
+                 Sumo Logic | Datadog | structlog | Alertmanager
 
 security:
   identity:      SSO | OIDC | OAuth2 + DCR | Keycloak | LDAP | RBAC / ABAC
@@ -82,7 +82,7 @@ engineering:
   languages:     Python | Java | JavaScript | SQL | Bash
   backend:       FastAPI | Pydantic | Spring Boot | Spring MVC | Node | Express
   frontend:      React | PatternFly | Redux | Angular | Fastify BFF | SSE streaming
-  testing:       pytest | Playwright | Vitest | Selenium | BDD | chaos suites
+  testing:       pytest | Playwright | Selenium | BDD | chaos suites
   ci_cd:         GitHub Actions | GitLab CI | Tekton | Argo CD
 ```
 
