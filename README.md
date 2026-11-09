@@ -39,6 +39,53 @@ Seventeen years to get here, and I've been the IC, the lead and the manager alon
 
 ## Stack
 
+Top of the stack down to the foundations — the order I learned it in reverse.
+
+```yaml
+agentic:
+  frameworks:   LangGraph | LangChain | Deep Agents | Strands | MCP (server + client)
+  platform:     control plane | edge gateway | agent & UI templates | Aegra runtime
+  retrieval:    RAG | Graph RAG | vector stores | ONNX embeddings
+  evaluation:   LLM-as-judge | Promptfoo | Lightspeed benchmarks | KEDA-scaled eval runners
+  models:       Claude | Gemini | open-source SLMs | fine-tuning | SLM-vs-LLM benchmarking
+  governance:   OPA policy | guardrails | HITL approval | AI security
+
+ai_ml:
+  data_science: EDA | anomaly detection | correlation | machine reasoning | feature analysis
+  modelling:    model selection & tuning | monitoring | retraining | drift | full model LCM
+  mlops:        MLflow | Kubeflow | Seldon | KServe | Argo Workflows
+  clouds:       AWS SageMaker | Bedrock AgentCore | GCP Vertex AI | Google Agent Engine
+
+data:
+  pipelines:    Kafka | RabbitMQ | PySpark | Logstash | DVC
+  stores:       PostgreSQL | MongoDB | Valkey | Redis | Elasticsearch / OpenSearch
+  warehouse:    Snowflake | S3 | Oracle | CouchDB | SQLite
+
+platform:
+  orchestration: Kubernetes | OpenShift | Helm | Kustomize | Argo CD | Argo Rollouts | Tekton
+  scaling:       HPA | KEDA | blue-green | multi-cluster routing
+  local:         Kind | Podman | Docker
+
+reliability:
+  chaos:         Toxiproxy | fault injection | blue-deployment isolation
+  patterns:      circuit breakers | distributed semaphores | leader election
+                 graceful drain | reconciliation loops | connection pooling
+  observability: OpenTelemetry | Prometheus | Grafana | Langfuse
+                 Sumo Logic | Loki | Jaeger | structlog | Alertmanager
+
+security:
+  identity:      SSO | OIDC | OAuth2 + DCR | Keycloak | LDAP | RBAC / ABAC
+  secrets:       HashiCorp Vault | ArgoCD Vault Plugin
+  appsec:        SSRF protection | CVE remediation | four-eyes approval | audit logging
+
+engineering:
+  languages:     Python | Java | JavaScript | SQL | Bash
+  backend:       FastAPI | Pydantic | Spring Boot | Spring MVC | Node | Express
+  frontend:      React | PatternFly | Redux | Angular | Fastify BFF | SSE streaming
+  testing:       pytest | Playwright | Vitest | Selenium | BDD | chaos suites
+  ci_cd:         GitHub Actions | GitLab CI | Tekton | Argo CD
+```
+
 ## Work
 
 ## Contact
