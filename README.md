@@ -1,6 +1,8 @@
 <div align="center">
 
-### *An architect who is a developer first.*
+### *A true full-stack architect who is a developer first.*
+
+`Full-Stack` **+** `Data Science` **+** `Agentic`
 <!-- 
 ### *I've built every layer I design , making sure it doesn't break — and if it does, I'm the one who gets it running again.* -->
 
