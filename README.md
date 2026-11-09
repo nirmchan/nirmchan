@@ -86,9 +86,8 @@ engineering:
   ci_cd:         GitHub Actions | GitLab CI | Tekton | Argo CD
 ```
 
-## @ Red Hat — Open Source
+## Red Hat Data & AI — Template Repositories 
 
-**Red Hat Data & AI Template Repositories**
 
 | Repository | What it is | Role | Stars |
 |---|---|---|---|
@@ -96,6 +95,11 @@ engineering:
 | [**template-ui**](https://github.com/redhat-data-and-ai/template-ui) | Agent UI that works out of the box with template-agent, extensible to any AI agent | Maintainer | ![](https://img.shields.io/github/stars/redhat-data-and-ai/template-ui?style=flat&labelColor=0D1117&color=00D9FF) |
 
 ## Work
+
+## Writing
+
+- [**Everyone Has an F1 Car. Not Everyone Can Drive.**](https://medium.com/@nirmalchandhar/everyone-has-an-f1-car-not-everyone-can-drive-252991162b3c) — Nov 2026
+- [**Prompt Debt: The Token Tax of Regenerative Code**](https://medium.com/@nirmalchandhar/prompt-debt-the-token-tax-of-regenerative-code-2ebd6b51962e) — Feb 2026
 
 ## Contact
 
