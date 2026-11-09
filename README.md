@@ -2,7 +2,7 @@
 
 ### *A Complete Full-Stack architect who is an Engineer first.*
 
-** `Full-Stack` **+** `AI/ML` **+** `Data Science` **+** `Agentic`
+`Full-Stack` **+** `AI/ML` **+** `Data Science` **+** `Agentic`
 <!-- 
 ### *I've built every layer I design , making sure it doesn't break — and if it does, I'm the one who gets it running again.* -->
 
@@ -87,6 +87,21 @@ engineering:
   testing:       pytest | Playwright | Selenium | BDD | chaos suites
   ci_cd:         GitHub Actions | GitLab CI | Tekton | Argo CD
 ```
+
+## Breadth × Depth
+
+Breadth is the number of rows. Depth is what's inside them.
+
+| Layer | Where I've gone deep |
+|---|---|
+| **Agentic platforms** | Designed the agent evaluation framework. Own the control plane, edge gateway and the agent + UI templates every agent on the platform is built from. |
+| **AI / ML** | Anomaly detection tuned for telco data, correlation algorithms, machine reasoning, model selection and tuning, full model lifecycle. |
+| **ML platform · MLOps** | Architected a cloud-native MLOps platform from scratch and owned it as product owner. Led the engine that took it to parity with Vertex AI and SageMaker. |
+| **Reliability** | Built a declarative chaos / fault-injection framework for Kubernetes. Circuit breakers, concurrency and lifecycle safety, reconciliation, production hardening. |
+| **Full-stack** | MEAN-stack enterprise applications, Angular admin dashboards, orchestration pipelines, BFF and SSE streaming. |
+| **Testing · automation** | Automation and migration frameworks, SDET tooling, reverse-engineered a vendor's proprietary test format into a reusable parser. |
+
+Seventeen years, one layer at a time — and I still write the code in all of them.
 
 ## Red Hat Data & AI — Template Repositories 
 
