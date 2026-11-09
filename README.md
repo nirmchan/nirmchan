@@ -96,6 +96,31 @@ engineering:
 
 ## Work
 
+```mermaid
+flowchart TB
+    subgraph IBM["IBM &nbsp;·&nbsp; 2009 — 2020"]
+        direction LR
+        A1["Test<br/>Specialist"] --> A2["Test Automation<br/>Specialist"] --> A3["Automation Developer<br/>SDET"] --> A4["Full-Stack<br/>Developer"] --> A5["Application Architect<br/>+ Analytics"] --> A6["Technical<br/>Manager"]
+    end
+
+    subgraph ERI["Ericsson &nbsp;·&nbsp; 2020 — 2026"]
+        direction LR
+        B1["Data<br/>Scientist"] --> B2["AIML Architect<br/>MLOps Engineer"] --> B3["AIML Solutions Architect<br/>MLOps Platform Engineering"] --> B4["AI-First Technology Leader<br/>AI Architect Manager"]
+    end
+
+    subgraph RH["Red Hat &nbsp;·&nbsp; 2026 — now"]
+        direction LR
+        C1["Principal Software Engineer &nbsp;·&nbsp; Data and AI"]
+    end
+
+    IBM --> ERI --> RH
+
+    classDef now stroke:#EE0000,stroke-width:3px
+    classDef ai stroke:#00D9FF,stroke-width:2px
+    class C1 now
+    class B1,B2,B3,B4 ai
+```
+
 | | Years | Role |
 |---|---|---|
 | <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/> | **2026 — Present** | **Principal Software Engineer · Data & AI**<br>Agentic platform engineering — control plane, edge gateway, agent & UI templates, agent evaluation framework, and the reliability work that keeps it in production. |
