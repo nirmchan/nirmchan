@@ -115,6 +115,9 @@ flowchart BT
     classDef ai stroke:#00D9FF,stroke-width:2px
     class C1 now
     class B1,B2,B3,B4 ai
+    style IBM fill:#ebedf0,stroke:#9aa4ae,color:#24292f
+    style ERI fill:#ebedf0,stroke:#9aa4ae,color:#24292f
+    style RH  fill:#ebedf0,stroke:#9aa4ae,color:#24292f
 ```
 
 | | Years | Role |
