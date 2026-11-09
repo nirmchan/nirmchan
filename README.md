@@ -96,10 +96,18 @@ engineering:
 
 ## Work
 
-## Writing
+| | Years | Role |
+|---|---|---|
+| <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/> | **2026 — Present** | **Principal Software Engineer · Data & AI**<br>Agentic platform engineering — control plane, edge gateway, agent & UI templates, agent evaluation framework, and the reliability work that keeps it in production. |
+| <img src="https://img.shields.io/badge/Ericsson-0082F0?style=for-the-badge&logo=ericsson&logoColor=white"/> | **2020 — 2026** | **AI-First Technology Leader · AI Architect Manager** · 2025–26<br>**AIML Solutions Architect · MLOps Platform Engineering** · 2022–25<br>**AIML Architect · MLOps Engineer** · 2022<br>**Data Scientist** · 2020–21<br>Cloud-native MLOps platform built from scratch and owned as PO. Anomaly detection and correlation for telco data. GenAI and traditional AI use cases taken to production. |
+| <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logoColor=white"/> | **2009 — 2020** | **Technical Manager · Full-Stack Architect**<br>**Application Architect + Analytics**<br>**Full-Stack Application Developer**<br>**Automation Developer · SDET**<br>**Test Specialist**<br>Eleven years, six rungs. MEAN-stack enterprise applications, automation and migration frameworks, Python/Pandas analytics tooling. Onsite in the US as client SPOC. |
 
-- [**Everyone Has an F1 Car. Not Everyone Can Drive.**](https://medium.com/@nirmalchandhar/everyone-has-an-f1-car-not-everyone-can-drive-252991162b3c) — Nov 2026
-- [**Prompt Debt: The Token Tax of Regenerative Code**](https://medium.com/@nirmalchandhar/prompt-debt-the-token-tax-of-regenerative-code-2ebd6b51962e) — Feb 2026
+> Red Hat is an IBM entity — Red Hat through Sep 2026, IBM CIO from Oct 2026, same team and same platform throughout.
+
+## Blogs
+
+- [**Everyone Has an F1 Car. Not Everyone Can Drive.**](https://medium.com/@nirmalchandhar/everyone-has-an-f1-car-not-everyone-can-drive-252991162b3c) 
+- [**Prompt Debt: The Token Tax of Regenerative Code**](https://medium.com/@nirmalchandhar/prompt-debt-the-token-tax-of-regenerative-code-2ebd6b51962e) 
 
 ## Contact
 
