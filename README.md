@@ -86,6 +86,15 @@ engineering:
   ci_cd:         GitHub Actions | GitLab CI | Tekton | Argo CD
 ```
 
+## Open Source
+
+| Repository | What it is | Role | Stars |
+|---|---|---|---|
+| [**template-agent**](https://github.com/redhat-data-and-ai/template-agent) | LangGraph agent template with enterprise security and Kubernetes deployment built in | Maintainer | ![](https://img.shields.io/github/stars/redhat-data-and-ai/template-agent?style=flat&labelColor=0D1117&color=00D9FF) |
+| [**template-ui**](https://github.com/redhat-data-and-ai/template-ui) | Agent UI that works out of the box with template-agent, extensible to any AI agent | Maintainer | ![](https://img.shields.io/github/stars/redhat-data-and-ai/template-ui?style=flat&labelColor=0D1117&color=00D9FF) |
+
+Both are the Red Hat Data & AI agent templates — every agent built on the platform starts from one of them. 22 merged PRs authored, 41 reviewed.
+
 ## Work
 
 ## Contact
