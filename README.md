@@ -1,10 +1,14 @@
 <div align="center">
 
-### *"I don't architect from slides. I've built every layer I design — and I'm there when it breaks."*
+### *An architect who is a developer first.*
+
+### *I've built every layer I design. I make sure it doesn't break — and I'm there when it does.*
 
 **Principal Software Engineer · Data & AI**
 
-`testing` → `automation` → `front-end` → `full-stack` → `core AI/ML` → `ML engineering` → `ML platform` → `agentic engineering` → `agentic platforms` → `SRE`
+`Testing` → `Automation Developer` → `Front-End Engineer` → `Full Stack` → `Data Scientist` → `AI Architect` → `ML Engineer` → `ML Platform Engineering` → `Agentic Engineering` → `Agent Platform Development` → `Technology Leader` → `Principal Software Engineer`
+
+**↳ and Reliability Engineering, for the new world order of agentic apps**
 
 **IC · Tech Lead · Engineering Manager** — whichever seat the problem needs
 
