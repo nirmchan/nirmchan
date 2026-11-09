@@ -25,13 +25,15 @@ Principal Software Engineer on Red Hat's **Data & AI** team.
 
 I build and run **AI Factory** — the internal agentic platform Red Hat engineers use to get agents into production. Control plane, edge gateway, and the agent + UI templates every agent on it starts from. I designed its agent evaluation framework. My team builds it; I'm in the code with them.
 
-**I came to agents through the models, not around them.** Data scientist first — exploratory analysis, anomaly detection tuned for telco data, machine reasoning, model selection, monitoring, retraining, the whole model lifecycle. Then the layer underneath: architected a cloud-native **MLOps platform** from scratch and owned it as product owner, then led the engine that took it to parity with Vertex AI and SageMaker. MLflow, Kubeflow, Seldon, KServe, Argo — the plumbing that moves a model from notebook to served endpoint.
+**I came to agents through the models, not around them.** Six years at **Ericsson R&D** — data scientist first: exploratory analysis, anomaly detection tuned for telco data, machine reasoning, model selection, monitoring, retraining, the whole model lifecycle. Then the layer underneath: architected a cloud-native **MLOps platform** from scratch and owned it as product owner, then led the engine that took it to parity with Vertex AI and SageMaker. MLflow, Kubeflow, Seldon, KServe, Argo — the plumbing that carries a model from **ideation to industrialization**. Traditional AI and GenAI both; I didn't skip the first to get to the second.
 
 Now the same discipline one layer up. **RAG and Graph RAG**, vector stores, **LangGraph** and **MCP**, fine-tuning, SLM-vs-LLM benchmarking, LLM-as-judge evaluation. Agentic systems are still ML systems — same rigour needed on data, evaluation and drift — with one new problem: they're **probabilistic apps**, and they fail in ways deterministic software never did.
 
 Which is why I spend as much time on **reliability** as on features: chaos testing, circuit breakers, and the unglamorous work that keeps agentic systems standing up.
 
 Seventeen years to get here, and I've been the IC, the lead and the manager along the way — often at the same time. The through-line is **production**, not demos.
+
+**Why this matters now.** Agents have democratized code generation and UI work — the low-hanging GenAI use cases are already picked. What's left needs enterprise architecture thinking, proven design patterns and production-grade engineering discipline. That's the part I spent seventeen years learning, one layer at a time.
 
 ## Stack
 
