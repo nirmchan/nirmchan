@@ -8,13 +8,12 @@
 
 `Testing` → `Automation Developer` → `Front-End Engineer` → `Full Stack` → `Data Scientist` → `AI Architect` → `ML Engineer` → `ML Platform Engineering` → `Agentic Engineering` → `Agent Platform Development` → `Technology Leader` → `Principal Software Engineer`
 
-**↳ and Reliability Engineering, for the new world order of agentic apps**
+**IC · Technology Leader · Engineering Manager** — whichever seat the problem needs.
+Not mutually exclusive. Usually juggling all three.
 
-**IC · Tech Lead · Engineering Manager** — whichever seat the problem needs
-
-<img src="https://img.shields.io/badge/Principal_SWE-Data_&_AI-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Agentic_Platforms-0D1117?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/SRE-0D1117?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Principal_Software_Engineer-0D1117?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Agent_Platform-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Data_%26_AI-0D1117?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/@_Red_Hat-EE0000?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
