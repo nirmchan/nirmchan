@@ -46,7 +46,7 @@ agentic:
   frameworks:   LangGraph | LangChain | Deep Agents | Strands | MCP (server + client)
   platform:     control plane | edge gateway | agent & UI templates | Aegra runtime
   retrieval:    RAG | Graph RAG | vector stores | ONNX embeddings
-  evaluation:   LLM-as-judge | Promptfoo | Lightspeed benchmarks | KEDA-scaled eval runners
+  evaluation:   LLM-as-judge | Promptfoo | Lightspeed benchmarks | Custom Agentic eval harness
   models:       Claude | Gemini | open-source SLMs | fine-tuning | SLM-vs-LLM benchmarking
   governance:   OPA policy | guardrails | HITL approval | AI security
   dev_tooling:  Claude Code | Kiro CLI | agent skill authoring | enterprise skill builder
